@@ -1,0 +1,128 @@
+{
+  "version": 1,
+  "base_track": "DROP IN",
+  "base_artist": "KMNZ",
+  "createdAt": "2026-02-07T03:23:01.429575Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "A Drop In Time",
+      "artist": "Mercury Rev",
+      "has_synced": true,
+      "path": "select/01_A_Drop_In_Time_Mercury_Rev.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "A Drop in the Ocean",
+      "artist": "Moloko",
+      "has_synced": false,
+      "path": "select/02_A_Drop_in_the_Ocean_Moloko.txt"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Drop In The Bucket",
+      "artist": "David Lee Roth",
+      "has_synced": false,
+      "path": "select/03_Drop_In_The_Bucket_David_Lee_Roth.txt"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "A Drop in the Ocean",
+      "artist": "Stratovarius",
+      "has_synced": true,
+      "path": "select/04_A_Drop_in_the_Ocean_Stratovarius.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "Drop In The Ocean",
+      "artist": "Michelle Branch",
+      "has_synced": true,
+      "path": "select/05_Drop_In_The_Ocean_Michelle_Branch.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "Drop In (Live, Fillmore West, Dec. 15, 1969)",
+      "artist": "King Crimson",
+      "has_synced": true,
+      "path": "select/06_Drop_In_(Live,_Fillmore_West,_Dec._15,_1969)_King_Crimson.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "Alive - Live, Drop In The Park, Seattle, WA, 9-20-1992",
+      "artist": "Pearl Jam",
+      "has_synced": false,
+      "path": "select/07_Alive_-_Live,_Drop_In_The_Park,_Seattle,_WA,_9-20-1992_Pearl_Jam.txt"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "Drop In the Ocean",
+      "artist": "Midnight Oil",
+      "has_synced": false,
+      "path": "select/08_Drop_In_the_Ocean_Midnight_Oil.txt"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "Let's Drop In",
+      "artist": "Mudhoney",
+      "has_synced": false,
+      "path": "select/09_Let's_Drop_In_Mudhoney.txt"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "State Of Love And Trust - Live, Drop In The Park, Seattle, WA, 9-20-1992",
+      "artist": "Pearl Jam",
+      "has_synced": false,
+      "path": "select/10_State_Of_Love_And_Trust_-_Live,_Drop_In_The_Park,_Seattle,_WA,_9-20-1992_Pearl_Jam.txt"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "State of Love & Trust (live, Drop in the Park)",
+      "artist": "Pearl Jam",
+      "has_synced": false,
+      "path": "select/11_State_of_Love_&_Trust_(live,_Drop_in_the_Park)_Pearl_Jam.txt"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "Drop in the Ocean",
+      "artist": "OMI feat. AronChupa",
+      "has_synced": true,
+      "path": "select/12_Drop_in_the_Ocean_OMI_feat._AronChupa.lrc"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "A Drop In the Ocean",
+      "artist": "Ron Pope",
+      "has_synced": true,
+      "path": "select/13_A_Drop_In_the_Ocean_Ron_Pope.lrc"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "A Drop in the Ocean",
+      "artist": "Blackfield",
+      "has_synced": false,
+      "path": "select/14_A_Drop_in_the_Ocean_Blackfield.txt"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "DROP IN",
+      "artist": "KMNZ",
+      "has_synced": false,
+      "path": "select/pl_01_DROP_IN_KMNZ.txt"
+    }
+  ]
+}
